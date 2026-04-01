@@ -99,7 +99,7 @@ public:
     }
 };
 
-int nain(){
+int main(){
 Playlist myPlaylist;
 
 int r1[] = {3,2,7};
